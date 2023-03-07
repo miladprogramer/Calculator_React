@@ -1,0 +1,30 @@
+.input-wrapper{
+ 
+    text-align: right;
+    padding-top: 0.1rem;
+    padding-bottom: 0.2rem;
+    padding-right: 1rem;
+    margin-bottom: 0.5rem;
+    width: 100%;
+    background: transparent;
+    color: #ffffff;
+   
+    box-shadow: inset 3px 3px 3px #17181c,
+              inset -3px -3px 3px #676e7e;
+}
+.result{
+   
+    text-align: right;
+    
+ 
+    padding-right: 1rem;
+    
+}
+
+.text{
+    
+    padding-right: 1rem;
+    text-align: right;
+   opacity: 0.5;
+
+}
